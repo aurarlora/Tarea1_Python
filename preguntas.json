@@ -1,0 +1,56 @@
+[{
+"p":"¿Que cultura recibe el nombre de cultura madre?",
+"r":["Olmeca","Azteca","Mexica","Totonaca"],
+"c":"0"
+},
+{
+"p":"¿Que ciudad fundaron los Mexicas",
+"r":["Teotihuacan","Tenochtitlan","Tultitlan","Tepoztlan"],
+"c":"1"
+},
+{
+"p":"¿Quienes eran los nacidos en la Nueva España, pero de padre y madre espaÃ±oles?",
+"r":["Los Mestizos","Los Peninsulares","Los Gachupines","Los Criollos"],
+"c":"3"
+},
+{
+"p":"¿Que dia se inicio la independencia de Mexico",
+"r":["15 de Septiembre de 1810","15 de Septiembre de 1910","16 de Septiembre de 1810","16 de Septiembre de 1910"],
+"c":"2"
+},
+{
+"p":"¿Quien no es heroe de la independencia",
+"r":["Ignacio Aldama","Felix Zuloaga","Francisco Xavier Mina","Jose Maria Morelos y Pavon"],
+"c":"1"
+},
+{
+"p":"¿Quien fue el primer presidente de Mexico?",
+"r":["Miguel Hidalgo","Agustin Iturbide","Guadalupe Victoria","Francisco I Madero"],
+"c":"2"
+},
+{
+"p":"¿Que se celebra el 5 de Mayo?",
+"r":["El dia de la Constitucion", "El dia de la Bandera", "La Batalla de Puebla","La Batalla de Chapultepec"],
+"c":"2"
+},
+{
+"p":"Las Leyes de la Reforma establecieron la nacionalizacion de los bienes de la Iglesia y la Libertad de Cultos",
+"r":["Cierto", "Falso"],
+"c":"0"
+},
+{
+"p": "Guerra en la cual se perdieron los terrotorios de Texas y La Mesilla",
+"r":["Intervencion Estadounidense en Mexico", "Guerra de los Pasteles", "Guerra de Reforma", "Revolucion Mexacana"],
+"c":0
+},
+{
+"p":"Francisco I Madero llamo al levantamiento armado en contra: ",
+"r":["Antonio Lopez de Santa Anna", "Victoriano Huerta", "Benito Juarez", "Porfirio Diaz"],
+"c":3
+},
+{
+"p":"El 18 de Marzo de 1938, ¿Qué presidente expropio el petroleo? ",
+"r":["Venustiano Carranza", "Plutarco Elias Calles", "Lázaro Cárdenas", "Miguel Aleman"],
+"c":2
+}
+]
